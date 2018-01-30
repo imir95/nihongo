@@ -1,0 +1,96 @@
+1. High Ascii:
+áéíóúàèìòùâêîôûäëïöüãõñðçåæ×ÞØÀÈÌÒÙÁÉÍÓÚÂÊÎÔÛÄËÏÖÜÃÕÑÅÆÇßÐ
+2. Japanese 1&2byte:
+ひらがな日本語カタカナ２ｂｙｔｅＡｌｐｈａｎｕｍｅｒｉｃ一ﾊﾞｲﾄｶﾀｶﾅ1byteAlphanumericand Direct Input.
+
+3. 5C:
+―ソ噂浬欺圭構蚕十申曾箪貼能表暴予禄兔喀媾彌拿杤
+
+4. Chinese:
+大家有天分, 它是事情行动直到您发现了是什么它。
+
+chinese 4byte
+㐁 㐂 㐃 㐄 㐅 㐆 㐇 㐈 㐉 㐊 
+㐋 㐌 㐍 㐎 㐏 㐐 㐑 㐒 㐓 㐔
+
+5. Korean:
+이는 것 너가 발견할 까지 모두는 재능, 그것이 정당하다 주변에 이동의 사정 있는다.
+
+6. Cyrillic: 
+ӐӑӒӓӘәӚӛӔӕБбВвГгҐґЃѓҒғӶӷҔҕДдЂђЕеЀѐЁёӖӗҼҽҾҿЄєЖжӁӂҖҗӜӝЗзҘҙӞӟӠӡЅѕИиЍѝӤӥӢӣІіЇїӀӀЙйҊҋЈјКкҚқҞҟҠҡӃӄҜҝЛлӅӆЉљМмӍӎНнҤҥҢңӉӊӇӈЊњОоӦӧӨөӪӫҨҩПпҦҧРрҎҏСсҪҫТтҬҭЋћЌќУуЎўӲӳӰӱӮӯҮүҰұФфХхҲҳҺһЦцҴҵЧчӴӵҶҷӋӌҸҹЏџШшЩщЪъЫыӸӹЬьҌҍЭэӬӭЮюЯя
+
+7. Surrogate Pair: 
+叱, 碻, 蕏, 鑲
+
+8. 2 byte numbers:
+１２３４５６７８９０
+
+9. Insert some 4 byte characters too.
+https://zerowing.corp.adobe.com/download/attachments/152845833/4Byte_ChineseCharacters.txt
+
+Niqqud:
+בְ חֱ חֲ חֳ בִ בִי בֵבֵי, בֵה, בֵא בֶ בֶי, בֶה, בֶא בַ בַה, בַא בָ בָה, בָא בָ בֹ בוֹ, בֹה, בֹא בֻ בוּ, בוּה, בוּא בּ בֿ
+
+Hebrew Alphabets:
+אבגדהוזחטיכךלמנסעפצקרשתםןףץ
+
+Adobe Paragraph Composer
+עוציב אלל ומשריי םושירה םויב הנש 18 םהל ואלמ םרט םליגש םיריעצ םינרטסקא םינחבנ
+.םולשת
+וז תכרעמ תועצמאב םשריהל םיאשר םניא ל »וחב םינחבנו ת »מתה דרשמ ינחבנ
+(2011)
+
+Linguistic Sorting from all languages: (https://wiki.corp.adobe.com/display/aigt/Enablement+Testing#myDeck-467268177) 
+
+
+
+Latin Based - Sort Order
+
+German
+AÄÆBCDEFGHIJKLMNOÖPQRSßTUÜVWXYZ
+French
+AÀÂÆBCÇŒÉÈÊËDEFGHIÎÏJKLMNOÔPQRSTUÙÛÜVWXYŸZ
+Italian
+AÀBCDEÉÈFGHIÌÎLMNOÒPQRSTUÙVZ
+Swedish
+AÁÄÅBCDEÉÈFGHIJKLMNOÖPQRSTUÜVWXYZ
+Spanish
+AÁBCDEÉFGHIÍÏJKLMNÑOÓPQRSTUÚÜVWXYZ
+Dutch
+AÁÀÂÄBCDEÉÈÊËFGHIÍÌÎÏĲJKLMNOÓÒÔÖPQRSTUÚÙÛÜVWXYZ
+Danish
+AÅÆBCDEFGHIJKLMNOØPQRSTUVWXYZ
+Braz. Portuguese
+AÁÀÂÃBCÇDEÉÊFGHIÍJKLMNOÓÔÕPQRSTUÚÜVWXYZ
+Norwegian
+AÁÀÂÅÆBCDEÉÈÊFGHIÍÌÎJKLMNOÓÒÔØPQRSTUÚÙÛÜVWXYÝỲŶZ
+Finnish
+AÅÄÆBCŒDEÉFGHIJKLMNOÖŐÕØPQRSŠTUÜŰVWXYZŽ
+Hungarian
+AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ
+Romanian
+AĂÂBCDEFGHIÎJKLMNOPRSȘTȚUVXZ
+Turkish
+ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ
+Czech
+AÁBCČDĎEÉĚFGHChIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽ
+Lithuanian
+AĄBCČDEĘĖFGHIĮYJKLMNOPRSŠTUŲŪVZŽ
+Swedish
+ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ
+
+
+
+Cyrillic Based- Sort Order 
+
+Russian
+АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ
+Ukrainian
+АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ
+
+
+Right to Left - Sort Order
+Arabic
+أ ب ج د ﻫ و ز ح ط ي ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ض ظ غ
+Hebrew
+אבגדהוזחטיכךלמנסעפצקרשתםןףץ
